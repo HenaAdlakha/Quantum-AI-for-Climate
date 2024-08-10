@@ -33,17 +33,17 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Hena Adlakha
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-PImiDBYAUBcXo8q
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Tanya Adlakha
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-DV7eWLAqs74qY14
 
 
 Team Member 3:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Drishti Adlakha
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-cLQUTccF8gUrNXY
 
 
 Team Member 4:
@@ -54,6 +54,11 @@ Team Member 4:
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+
+[Project File](https://github.com/HenaAdlakha/Quantum-AI-for-Climate/blob/79077322b01fbc225a9866443f04020df3c12174/Womanium%20AI%20%2BQuantum%20Project%20(Writeup)-2.pdf)
+
+In case the above doesn't work, try downloading the file or accessing it through:
+[Google Drive Link](https://drive.google.com/file/d/1A5gf9LII6hRDllmAoN44cF7UjQwPwJ1Q/view?usp=sharing)
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
